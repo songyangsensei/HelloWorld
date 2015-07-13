@@ -1,3 +1,3 @@
 # HelloWorld
-To learn Git
-start now!
+To learn Git start now!
+new branch
